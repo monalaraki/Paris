@@ -44,7 +44,7 @@ body {
 }
 
 .middle {
-	background-image: url('../images/bienvenue.jpg');
+	background-image: url('bienvenue.jpg');
 	height: 45vh;
 	background-size: cover;
 	background-position: 60% 40%;
